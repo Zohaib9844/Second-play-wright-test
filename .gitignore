@@ -1,0 +1,20 @@
+
+# Virtual env
+venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# Playwright reports
+reports/
+
+# Configs (if needed)
+pytest.ini  
+
+# uncomment if you want to ignore this
+
+# Not ignoring:
+# conftest.py
+# first_test.py
+requirements.txt
